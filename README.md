@@ -22,3 +22,14 @@ copy
 그 다음 har() + 엔터
 
 ![image](https://github.com/hyunju960429/all-images/assets/145514544/49dfd46d-f32e-42bb-8975-caaacca60924)
+
+
+
+```
+var imageUrls = [];
+har.log.entries.forEach(function (entry) {
+  if (entry.response.content.mimeType.indexOf("image/") !== 0) return;
+  imageUrls.push(entry.request.url);
+});
+console.log(imageUrls.join('\n'));
+```

@@ -36,3 +36,17 @@ console.log(imageUrls.join('\n'));
 
 
 ![image](https://github.com/hyunju960429/all-images/assets/145514544/b87a52fc-7acb-4a77-835e-333b1d065d33)
+
+
+
+--------------------
+
+
+https://imgdownloader.com/ko/
+
+# url 주소 이미지 대량 다운받기
+
+
+
+![image](https://github.com/hyunju960429/all-images/assets/145514544/d8da83ef-e42c-4d33-89b5-6c7b091dfa9c)
+
